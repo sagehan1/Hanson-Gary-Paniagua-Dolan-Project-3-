@@ -54,16 +54,27 @@ References for the data source(s): A combination of feedback from our instructor
 
 References for any code used that is not your own:
 
-•	ChatGPT: https://chatgpt.com/
-•	Example of Drought Heatmap: https://droughtmonitor.unl.edu/
-•	GeoJSON file: https://geojson-maps.kyd.au/?utm_source=self&utm_medium=redirect
-•	GeoJSON Overview: https://python-graph-gallery.com/map-read-geojson-with-python-geopandas/
-•	GeoPandas Overview: https://geopandas.org/en/stable/docs/user_guide/io.html
-•	Leaflet vs Folium Overview: https://medium.com/@limeira.felipe94/choosing-the-right-mapping-library-leaflet-openlayers-vs-folium-and-geemap-bdbc92f701c4#:~:text=Leaflet%20and%20OpenLayers%20are%20ideal,integration%20with%20data%20analysis%20tools.
-•	Pip install Folium: https://stackoverflow.com/questions/61818378/how-to-install-folium-for-python-3-7
-•	Plotting with Folium: https://geopandas.org/en/stable/gallery/plotting_with_folium.html
-•	Quality of Life Indexes: https://www.numbeo.com/quality-of-life/indices_explained.jsp
-•	Reading GeoJSON files: https://www.youtube.com/watch?v=Kr658rFToOs&ab_channel=BugBytes
-•	Seaborn Overview: https://www.geeksforgeeks.org/introduction-to-seaborn-python/#
-•	World Happiness Report FAQ: https://worldhappiness.report/faq/
+-ChatGPT: https://chatgpt.com/
+
+-Example of Drought Heatmap: https://droughtmonitor.unl.edu/
+
+-GeoJSON file: https://geojson-maps.kyd.au/?utm_source=self&utm_medium=redirect
+
+-GeoJSON Overview: https://python-graph-gallery.com/map-read-geojson-with-python-geopandas/
+
+-GeoPandas Overview: https://geopandas.org/en/stable/docs/user_guide/io.html
+
+-Leaflet vs Folium Overview: https://medium.com/@limeira.felipe94/choosing-the-right-mapping-library-leaflet-openlayers-vs-folium-and-geemap-bdbc92f701c4#:~:text=Leaflet%20and%20OpenLayers%20are%20ideal,integration%20with%20data%20analysis%20tools.
+
+-Pip install Folium: https://stackoverflow.com/questions/61818378/how-to-install-folium-for-python-3-7
+
+-Plotting with Folium: https://geopandas.org/en/stable/gallery/plotting_with_folium.html
+
+-Quality of Life Indexes: https://www.numbeo.com/quality-of-life/indices_explained.jsp
+
+-Reading GeoJSON files: https://www.youtube.com/watch?v=Kr658rFToOs&ab_channel=BugBytes
+
+-Seaborn Overview: https://www.geeksforgeeks.org/introduction-to-seaborn-python/#
+
+-World Happiness Report FAQ: https://worldhappiness.report/faq/
 
